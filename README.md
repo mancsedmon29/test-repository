@@ -1,3 +1,3 @@
-# test-repository
+# My First Repository
 
-This is a second example.
+Edmon Mancao was a great programmer and became the highest-paid freelancer someday.
